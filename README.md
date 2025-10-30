@@ -1,8 +1,16 @@
-# 🐞 Olá, eu sou a Manu.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:5170ff,100:1800ad&reversal=true&textBg=false&descAlign=60"/>
 
-**`Analista de qualidade de software`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Manu.;I+have+experience+as+a+QA+professional;I'm+22+years+old;I+am+a+Systems+Analysis+and+Development+Graduate;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Tenho experiência como QA, atuando em projetos de consórcio, gestão escolar, e-commerce, e apps infantis com foco em acessibilidade. Sou movida pela melhoria contínua, atenção aos detalhes e entrega de produtos confiáveis e funcionais. Acredito que qualidade vai além dos testes. É sobre garantir valor real ao usuário.
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ManuEdvania-QA&show_icons=true&count_private=true&hide_border=true&title_color=5170ff&icon_color=5170ff&text_color=c9d1d9&bg_color=0d1117" alt="Nanda's GitHub stats" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuEdvania-QA&layout=compact&hide_border=true&title_color=5170ff&text_color=5170ff&bg_color=0d1117" />
+</div>
+<br/>
+<br/>
+
+---
 
 <p align="left">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -23,10 +31,8 @@ Tenho experiência como QA, atuando em projetos de consórcio, gestão escolar, 
         />
     </a>
 </p>
-
----
-
-### 🧪 Habilidade & Ferramentas
+        
+### Habilidade & Ferramentas
 
 <img 
     align="left" 
@@ -143,26 +149,7 @@ Tenho experiência como QA, atuando em projetos de consórcio, gestão escolar, 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
- src="https://github-readme-stats.vercel.app/api?username=ManuEdvania-QA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuEdvania-QA&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+<br/>
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuEdvania-QA/ManuEdvania-QA/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuEdvania-QA/ManuEdvania-QA/output/github-contribution-grid-snake-dark.svg">
