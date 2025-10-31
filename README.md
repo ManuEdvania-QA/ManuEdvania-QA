@@ -30,8 +30,11 @@
             src="https://custom-icon-badges.demolab.com/github/followers/ManuEdvania-QA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+<img align="right" height="170" alt="Manu desenho" src="https://github.com/user-attachments/assets/360759e5-8e10-424f-9edb-f1fe136ce9cb" />
+
 </p>
-        
+
 ### Habilidade & Ferramentas
 
 <img 
